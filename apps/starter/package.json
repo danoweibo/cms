@@ -57,9 +57,9 @@
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^16.2.6",
-    "@repo/eslint-config": "workspace:*",
-    "@repo/tailwind-config": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
+    "@cms/eslint-config": "workspace:*",
+    "@cms/tailwind-config": "workspace:*",
+    "@cms/typescript-config": "workspace:*",
     "@eslint/eslintrc": "^3.2.0",
     "@playwright/test": "1.58.2",
     "@tailwindcss/postcss": "^4.1.18",
