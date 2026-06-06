@@ -56,6 +56,10 @@
     "@payloadcms/db-postgres": "3.85.0"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^16.2.0",
+    "@repo/eslint-config": "workspace:*",
+    "@repo/tailwind-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
     "@eslint/eslintrc": "^3.2.0",
     "@playwright/test": "1.58.2",
     "@tailwindcss/postcss": "^4.1.18",
