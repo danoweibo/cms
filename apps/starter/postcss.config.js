@@ -1,3 +1,3 @@
-import { postcssConfig } from '@cms/tailwind-config/postcss'
+import { postcssConfig } from "@cms/tailwind-config/postcss"
 
 export default postcssConfig
