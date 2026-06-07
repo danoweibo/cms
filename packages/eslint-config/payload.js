@@ -9,7 +9,7 @@ const compat = new FlatCompat({
   baseDirectory: __dirname,
 });
 
-const eslintConfig = [
+export const eslintPayloadConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
     rules: {
@@ -38,5 +38,3 @@ const eslintConfig = [
     ],
   },
 ];
-
-export default eslintConfig;
